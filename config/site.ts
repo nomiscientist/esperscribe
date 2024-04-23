@@ -13,7 +13,7 @@ interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "videoscribe",
+  name: "esperscribe",
   description: "Transcribe any video for free with OpenAI's whisper API",
   mainNav: [
     {
@@ -22,8 +22,8 @@ export const siteConfig: SiteConfig = {
     },
   ],
   links: {
-    twitter: "https://twitter.com/sullyo",
-    github: "https://github.com/sullyo/videoscribe",
+    twitter: "https://twitter.com/nomiscientist",
+    github: "https://github.com/nomiscientist/esperscribe",
     video: "/video",
     youtube: "/youtube",
   },
