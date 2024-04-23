@@ -13,7 +13,7 @@ export default function IndexPage() {
   return (
     <Layout>
       <Head>
-        <title>Videoscribe</title>
+        <title>EsperScribe</title>
         <meta
           name="description"
           content="Video transcriber for Youtube built with Radix UI and Tailwind CSS"

@@ -60,7 +60,7 @@ export default function YoutubePage() {
     return (
       <Layout>
         <Head>
-          <title>Videoscribe</title>
+          <title>esperscibe</title>
           <meta name="description" content="Upload and transcribe your files" />
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           <link rel="icon" href="/favicon.ico" />
@@ -79,7 +79,7 @@ export default function YoutubePage() {
   return (
     <Layout>
       <Head>
-        <title>Videoscribe</title>
+        <title>esperscibe</title>
         <meta name="description" content="Upload and transcribe your files" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
@@ -103,7 +103,7 @@ export default function YoutubePage() {
             </h1>
             <a
               href={downloadHref}
-              download={`videoscribe-yt-dl.${
+              download={`esperscibe-yt-dl.${
                 format === "text" ? "txt" : format
               }`}
               className="flex items-center justify-center text-center text-lg text-slate-700 hover:underline dark:text-slate-400 sm:text-xl"

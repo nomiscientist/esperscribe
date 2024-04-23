@@ -74,7 +74,7 @@ export default function VideoPage() {
     return (
       <Layout>
         <Head>
-          <title>Videoscribe</title>
+          <title>esperscibe</title>
           <meta name="description" content="Upload and transcribe your files" />
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           <link rel="icon" href="/favicon.ico" />
@@ -93,7 +93,7 @@ export default function VideoPage() {
   return (
     <Layout>
       <Head>
-        <title>Videoscribe</title>
+        <title>esperscibe</title>
         <meta name="description" content="Upload and transcribe your files" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
